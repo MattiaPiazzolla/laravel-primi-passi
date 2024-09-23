@@ -27,7 +27,7 @@
         </div>
     </header>
     <main>
-        <h1 class="text-center my-5">Hello Laravel</h1>
+        <h1 class="text-center my-5">Chi siamo</h1>
     </main>
 </body>
 
